@@ -1,6 +1,7 @@
 body {
   display: flex;
   flex-direction: column;
+  background-color: pink;
 }
 
 main {
@@ -17,4 +18,38 @@ article {
 aside {
   flex: 1;
   overflow-y: auto;
+}
+
+h1,
+h2,
+h3 {
+  color: red;
+}
+
+table {
+  width: 400px;
+}
+
+th {
+  text-align: left;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+}
+
+a {
+  font-size: large;
+}
+
+aside {
+  font-size: large;
+  color: rgb(201, 16, 47);
 }
