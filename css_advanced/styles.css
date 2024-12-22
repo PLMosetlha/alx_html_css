@@ -1,0 +1,253 @@
+.container {
+  background-image: url(Object.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: cover;
+  width: 1440px;
+  height: 1093px;
+}
+
+.navdiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1103.41;
+  height: 29.46;
+}
+li {
+  list-style: none;
+  display: inline-block;
+}
+li a {
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
+  margin-right: 80px;
+}
+
+.logo {
+  margin-left: 80px;
+}
+.container {
+  color: white;
+}
+
+.Bruceimg {
+  border-radius: 100px;
+}
+
+.MC {
+  display: flex;
+  flex-direction: row;
+  margin-top: 200px;
+  justify-content: space-evenly;
+}
+
+.GS {
+  text-align: center;
+  font-size: 100px;
+  line-height: 150.84px;
+  size: 120;
+  font-weight: 120px;
+  font-style: source sans Pro;
+}
+
+.span {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  left: 300px;
+  font-weight: 700px;
+  font-size: 16px;
+}
+.btn1 {
+  display: block;
+  margin: auto;
+  border-radius: 20px;
+  font-size: 14px;
+  background-color: #c271ff;
+  color: white;
+  font-weight: 600pxl;
+  line-height: 17.6px;
+  align-items: center;
+  width: 162px;
+  height: 44px;
+  top: 419px;
+  left: 639px;
+  border: none;
+  margin-top: 50px;
+}
+
+.pros {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700px;
+  font-size: 32px;
+  line-height: 40.22px;
+}
+
+.learn {
+  color: #c271ff;
+  margin-right: 10px;
+}
+
+.section2 {
+  background-color: #c271ff;
+  width: 1440px;
+  height: 392px;
+  top: 1093px;
+  left: -1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.personS2 {
+  color: white;
+  font-size: 22px;
+  font-weight: 400px;
+  line-height: 33.6px;
+}
+
+.sec2img {
+  width: 160px;
+  height: 160px;
+  top: 1201px;
+  left: 259px;
+}
+
+.S3MC {
+  width: 1228px;
+  height: 450px;
+  top: 1572px;
+  left: 106px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 200px;
+  justify-content: space-between;
+  margin-left: 100px;
+}
+.S1 {
+  width: 255px;
+  height: 335px;
+  top: 115px;
+  left: 58px;
+}
+.S2 {
+  width: 255px;
+  height: 335px;
+  top: 115px;
+  left: 919px;
+}
+.S3 {
+  width: 255px;
+  height: 335px;
+  top: 115px;
+  left: 629px;
+}
+.S4 {
+  width: 255px;
+  height: 335px;
+  top: 115px;
+  left: 344px;
+}
+
+.tutorials {
+  width: 294px;
+  height: 40px;
+  left: 482px;
+}
+
+.popular {
+  text-align: center;
+  font-weight: 300px;
+  font-size: 32px;
+  line-height: 40.22px;
+}
+
+.learn2 {
+  color: #c271ff;
+}
+.s4h2 {
+  text-align: center;
+  color: #c271ff;
+  font-size: 32px;
+  font-weight: 700px;
+  line-height: 40.22px;
+}
+.s4c {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+}
+
+.section4 {
+  background-color: #071629;
+}
+.s4p {
+  font-weight: 400px;
+  font-size: 14px;
+  line-height: 26px;
+}
+.s4h3 {
+  font-weight: 600px;
+  font-size: 18px;
+  line-height: 26px;
+}
+.membership {
+  color: white;
+}
+
+.s5h2 {
+  text-align: center;
+  font-weight: 300;
+  font-size: 60px;
+  line-height: 75.42px;
+}
+.FAQ {
+  height: 707px;
+  width: 920px;
+  top: 2678;
+  left: 249;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  padding-left: 100px;
+}
+
+.fc1 p {
+  color: #07162980;
+  font-weight: 400px;
+  font-size: 14px;
+}
+
+.fc1 {
+  width: 350px;
+  height: 242px;
+  left: 570px;
+  top: 149px;
+}
+
+.fc1 h3 {
+  font-weight: 700px;
+  font-size: 16px;
+}
+.section6 {
+  background-color: #071629;
+  width: 1440;
+  height: 249px;
+}
+.sec6 p {
+  color: white;
+  text-align: center;
+  font-weight: 400px;
+  font-size: 12px;
+  line-height: 15.08px;
+  margin-top: 200px;
+}
